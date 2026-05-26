@@ -35,7 +35,7 @@ class AccessibilityPanel extends StatelessWidget {
           ),
           const SizedBox(height: 8),
           Text(
-            'Core controls stay within easy left-thumb reach.',
+            'Core controls stay within easy thumb reach.',
             style: theme.textTheme.bodyMedium,
           ),
           const SizedBox(height: 20),
